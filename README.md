@@ -1,2 +1,2 @@
 # Sandpile
-Program that can generate an Abelian sandpile
+The [**Abelian sandpile model**](https://en.wikipedia.org/wiki/Abelian_sandpile_model), also known as the **Bak–Tang–Wiesenfeld model** is a cellular automaton. In its original formulation, each site on a finite grid has an associated value that corresponds to the slope of the pile. This slope builds up as "grains of sand" (or "chips") are randomly placed onto the pile, until the slope exceeds a specific threshold value at which time that site collapses transferring sand into the adjacent sites, increasing their slope. 

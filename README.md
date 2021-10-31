@@ -19,3 +19,15 @@ To build this projects, open the project.pro file with Qt Creator. Inside Qt Cre
 
 
 ## Usage
+Running the program will show the main widget. Generating the sandpile is a dynamic process, which can be started or halted by clicking the "Start" button in the GUI.
+![](images/main_interface_bg.png)
+
+To change the parameters of the sandpile, you must go to [`mainwindow.cpp`](mainwindow.cpp). Inside the constructor `MainWindow::MainWindow` you will find the following two lines:
+
+```cpp
+  this->N = 301;
+  this->imgSIZE = 601;
+```
+
+You can set the size of the sandpile with `N` (the sandpile is essentially an `N` by `N` grid).
+To change the size of the image displayed in the GUI, change `imgSIZE`.

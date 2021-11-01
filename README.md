@@ -14,8 +14,8 @@ The [**Abelian sandpile model**](https://en.wikipedia.org/wiki/Abelian_sandpile_
 ## How to run
 
 ### Qt Creator
-Start by installing the Qt5 SDK from (qt.io)[https://www.qt.io/download]. 
-To build this projects, open the project.pro file with Qt Creator. Inside Qt Creator, you can first build the project, after which you can run the program.
+Start by installing the Qt5 SDK from [qt.io](https://www.qt.io/download). 
+To build this projects, open the `Sandpile.pro` file with Qt Creator. Inside Qt Creator, you can first build the project, after which you can run the program.
 
 
 ## Usage

@@ -23,7 +23,6 @@ To build this projects, open the `Sandpile.pro` file with Qt Creator. Inside Qt 
 ## Usage
 Running the program will show the main widget. Generating the sandpile is a dynamic process, which can be started or halted by clicking the "Start" button in the GUI.
 ![](images/sandpile_GUI.png)
-
 To change the parameters of the sandpile, you must go to [`mainwindow.cpp`](mainwindow.cpp). Inside the constructor `MainWindow::MainWindow` you will find the following two lines:
 
 ```cpp

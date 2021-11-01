@@ -1,5 +1,7 @@
 # Sandpile
-A simple program that can generate an Abelian sandpile.
+A simple program that can generate an Abelian sandpile. A recording of the program in action is shown below.
+
+![](images/sandgif.gif)
 
 ## INDEX
  * [Introduction](#introduction)

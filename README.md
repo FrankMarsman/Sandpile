@@ -3,7 +3,7 @@ A simple program that can generate an Abelian sandpile. A recording of the progr
 
 ![](images/sandgif.gif)
 
-## INDEX
+## Contents
  * [Introduction](#introduction)
  * [How to run](#how-to-run)
  * [How to use](#usage)
